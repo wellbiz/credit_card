@@ -1,0 +1,20 @@
+{
+    "name": "credit_card-1lvl",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "dev": "parcel index.html",
+        "build": "parcel build index.html"
+    },
+    "author": "Dmitry Taras",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "navigo": "^8.11.1",
+        "redom": "^3.29.0"
+    },
+    "devDependencies": {
+        "buffer": "^6.0.3",
+        "process": "^0.11.10"
+    }
+}
